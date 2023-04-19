@@ -1,2 +1,1 @@
-# Saltmarble-Token
-# Contract Source Code
+# Saltmarble-Token Contract Source Code
